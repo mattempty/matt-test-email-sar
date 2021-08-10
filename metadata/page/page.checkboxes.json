@@ -1,0 +1,67 @@
+{
+  "_id": "page.checkboxes",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.checkboxes--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__1",
+          "_type": "checkbox",
+          "label": "Option 1",
+          "name": "auto_name__1",
+          "value": "e[EMAIL_DIGITAL]"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "Option 2",
+          "name": "auto_name__2",
+          "value": "e[EMAIL_DIGITAL]"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "Option 3",
+          "name": "auto_name__3",
+          "value": "e[EMAIL_JUSTICE]"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "Option 4",
+          "name": "auto_name__4",
+          "value": "e[EMAIL_JUSTICE]"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "Option 5",
+          "name": "auto_name__5",
+          "value": "e[EMAIL_JUSTICE]"
+        }
+      ],
+      "legend": "Check some boxes...",
+      "validation": {
+        "required": true
+      }
+    }
+  ],
+  "url": "checkboxes"
+}

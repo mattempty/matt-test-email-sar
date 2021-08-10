@@ -1,0 +1,6 @@
+{
+  "_id": "page.confirm",
+  "_type": "page.confirmation",
+  "heading": "Fingers crossed it works...",
+  "url": "confirm"
+}
