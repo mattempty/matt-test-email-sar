@@ -24,7 +24,7 @@
           "_type": "checkbox",
           "label": "Option 2",
           "name": "auto_name__2",
-          "value": "e[EMAIL_1]"
+          "value": "e[EMAIL_2]"
         },
         {
           "$component": true,
