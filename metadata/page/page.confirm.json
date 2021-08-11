@@ -1,6 +1,8 @@
 {
   "_id": "page.confirm",
   "_type": "page.confirmation",
+  "body": "",
+  "components": [],
   "heading": "Fingers crossed it works...",
   "url": "confirm"
 }

@@ -14,7 +14,7 @@
           "_type": "checkbox",
           "label": "Option 1",
           "name": "auto_name__1",
-          "value": "e[EMAIL_DIGITAL]"
+          "value": "e[EMAIL_1]"
         },
         {
           "$component": true,
@@ -24,7 +24,7 @@
           "_type": "checkbox",
           "label": "Option 2",
           "name": "auto_name__2",
-          "value": "e[EMAIL_DIGITAL]"
+          "value": "e[EMAIL_1]"
         },
         {
           "$component": true,
@@ -34,7 +34,7 @@
           "_type": "checkbox",
           "label": "Option 3",
           "name": "auto_name__3",
-          "value": "e[EMAIL_JUSTICE]"
+          "value": "e[EMAIL_3]"
         },
         {
           "$component": true,
@@ -44,7 +44,7 @@
           "_type": "checkbox",
           "label": "Option 4",
           "name": "auto_name__4",
-          "value": "e[EMAIL_JUSTICE]"
+          "value": "e[EMAIL_4]"
         },
         {
           "$component": true,
@@ -54,7 +54,7 @@
           "_type": "checkbox",
           "label": "Option 5",
           "name": "auto_name__5",
-          "value": "e[EMAIL_JUSTICE]"
+          "value": "e[EMAIL_5]"
         }
       ],
       "legend": "Check some boxes...",
